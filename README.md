@@ -9,5 +9,5 @@ Job description: Build a cabinet from scratch, including the purchase of amteria
 
 ## Responsibilities
 
-[] Measure the installation space
-[]
+[ ] Measure the installation space
+[ ]
