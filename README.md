@@ -9,8 +9,8 @@ Job description: Build a cabinet from scratch, including the purchase of amteria
 
 ## Responsibilities
 
-[] Measure the installation space.
-[] Prepare the pieces (cut).
-[] Assemble the cabinet body.
-[] Drawers and Doors!
-[] Finishing touches.
+- Measure the installation space.
+- Prepare the pieces (cut).
+- Assemble the cabinet body.
+- Drawers and Doors!
+- Finishing touches.
